@@ -1,5 +1,5 @@
 <script>
-  import Dashboard from '../../../dashboard-jemuran/src/lib/components/Dashboard.svelte';
+  import Dashboard from '../../../Automatic-Clothes-Drying-IoT/src/lib/components/Dashboard.svelte';
 </script>
 
 <Dashboard />
